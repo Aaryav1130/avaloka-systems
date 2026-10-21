@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests: 28 Passed](https://img.shields.io/badge/tests-28%20passed-brightgreen.svg)]()
 
-Technical assessment repository for the **AI / Multi-Agent Systems Intern** role at **Avaloka (Guruvai Sciences)**.
 
 Contains modular, production-ready implementations of:
 1. **$O(1)$ LRU Cache** via composite Hash Map & Doubly Linked List.
@@ -134,9 +133,3 @@ OK
 ```
 
 ---
-
-## 4. Author
-
-**Aaryav Chaudhary**  
-- **GitHub**: [@Aaryav1130](https://github.com/Aaryav1130)  
-- **Target Role**: AI / Multi-Agent Systems Intern — Avaloka (Guruvai Sciences)
